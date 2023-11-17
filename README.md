@@ -1,6 +1,4 @@
-
-
-        # Dart Back-end #
+# Dart Back-end
 data types
 data variables
 Class
@@ -22,7 +20,7 @@ Local Data Base
 
 
 
-      Data types../..Data variables 
+# Data types../..Data variables 
 int age = 12;
 
 double price = 12.5;
